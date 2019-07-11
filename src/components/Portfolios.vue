@@ -1,6 +1,7 @@
 <template>
     <div>
-     <router link to="/portfolios">Portfolio</router>
+
+        hello
     </div>
 </template>
 
