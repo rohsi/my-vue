@@ -9,9 +9,9 @@
 
 </style>
 <script>
-    import Portfolio from "./components/Portfolio";
+    import Portfolios from "./components/Portfolios";
     import HelloWorld from "./components/HelloWorld";
     export default {
-        components: {HelloWorld, Portfolio}
+        components: {HelloWorld, Portfolios}
     }
 </script>
